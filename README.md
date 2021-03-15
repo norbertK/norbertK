@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @norbertK
+- 👀 Just now I’m interested in IOT in Docker on a Raspberry 4 and improving my VS Code Extension "Taskmarks"
